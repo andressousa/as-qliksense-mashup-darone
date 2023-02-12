@@ -2,7 +2,7 @@
     "name": "AS DAR One",
     "description": "DAR Mashup template based on Bootstrap.",
     "icon": "extension",
-    "type": "mashup",
+    "type": "mashup-template",
     "version": "1.0.0",
     "author": "André Sousa",
     "homepage": "https://www.linkedin.com/in/andresantossousa/",
