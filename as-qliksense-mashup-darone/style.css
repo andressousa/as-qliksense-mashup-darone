@@ -1,0 +1,87 @@
+/*!
+*
+* The MIT License (MIT)
+* Copyright (c) 2023
+* 
+* Permission is hereby granted, free of charge, to any person obtaining a copy of
+* this software and associated documentation files (the "Software"), to deal in
+* the Software without restriction, including without limitation the rights to
+* use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+* the Software, and to permit persons to whom the Software is furnished to do so,
+* subject to the following conditions:
+* 
+* The above copyright notice and this permission notice shall be included in all
+* copies or substantial portions of the Software.
+* 
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+* FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+* COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+* IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+* CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*
+* @version v1.0.0
+* @link https://github.com/andressousa/as-qliksense-mashup-darone
+* @author André Sousa
+* @license MIT
+*/
+
+ /** 
+ * 	CSS dependencies
+ *	
+ *	Bootstrap v4.6.0
+ * 	- https://getbootstrap.com/docs/4.6/getting-started/introduction/
+ * 
+ *	Font Awesome Free 5.15.4
+ *	- https://fontawesome.com/v5/search?m=free
+ *
+ *	Google Fonts
+ *	- https://fonts.googleapis.com/
+ */
+
+
+
+/** 
+ * 	Custom height for qlik objects
+ *	- you can create yours custom height classes here
+ */
+
+.ha-50{ height: 50px; }
+.ha-75{ height: 75px; }
+.ha-100{ height: 100px; }
+.ha-125{ height: 125px; }
+.ha-150{ height: 150px; }
+.ha-175{ height: 175px; }
+.ha-200{ height: 200px; }
+.ha-225{ height: 225px; }
+.ha-250{ height: 250px; }
+.ha-275{ height: 275px; }
+.ha-300{ height: 300px; }
+.ha-325{ height: 325px; }
+.ha-350{ height: 350px; }
+.ha-375{ height: 375px; }
+.ha-400{ height: 400px; }
+.ha-425{ height: 425px; }
+.ha-450{ height: 450px; }
+.ha-475{ height: 475px; }
+.ha-500{ height: 500px; }
+.ha-525{ height: 525px; }
+.ha-550{ height: 550px; }
+.ha-575{ height: 575px; }
+.ha-600{ height: 600px; }
+.ha-625{ height: 625px; }
+.ha-650{ height: 650px; }
+.ha-675{ height: 675px; }
+.ha-700{ height: 700px; }
+.ha-725{ height: 725px; }
+.ha-750{ height: 750px; }
+.ha-775{ height: 775px; }
+.ha-800{ height: 800px; }
+.ha-825{ height: 825px; }
+.ha-850{ height: 850px; }
+.ha-875{ height: 875px; }
+.ha-900{ height: 900px; }
+.ha-925{ height: 925px; }
+.ha-950{ height: 950px; }
+.ha-975{ height: 975px; }
+.ha-1000{ height: 1000px; }

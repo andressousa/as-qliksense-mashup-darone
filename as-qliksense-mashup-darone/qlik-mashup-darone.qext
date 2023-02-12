@@ -1,0 +1,16 @@
+{
+    "name": "AS DAR One",
+    "description": "DAR Mashup template based on Bootstrap.",
+    "icon": "extension",
+    "type": "mashup",
+    "version": "1.0.0",
+    "author": "André Sousa",
+    "homepage": "https://www.linkedin.com/in/andresantossousa/",
+    "keywords": "qlik-sense, visualization, mashup, bootstrap 4, responsive",
+    "preview": "assets/img/preview.png",
+    "license": "The MIT License (MIT)",
+    "repository": "https://github.com/andressousa/as-qliksense-mashup-darone",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}
