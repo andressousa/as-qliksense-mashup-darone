@@ -6,7 +6,7 @@ This is a Dashboard, Analysis and Report (DAR) mashup extension for Qlik Sense. 
 [![Dashboard](https://github.com/andressousa/as-qliksense-mashup-darone/blob/main/print.png)](https://www.youtube.com/watch?v=RQtZpG5WbXw)
 
 ## Summary
-- [Features](https://github.com/andressousa/as-qliksense-mashup-darone#features)
+- [Welcome](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-as-dar-one)
 - [Installation](https://github.com/andressousa/as-qliksense-mashup-darone#installation)
 	- [Dependencies](https://github.com/andressousa/as-qliksense-mashup-darone#dependencies)
 - [Configurations](https://github.com/andressousa/as-qliksense-mashup-darone#configurations)
