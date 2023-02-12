@@ -1,57 +1,32 @@
 # Welcome to DAR One
-## Premium Version
+
+![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-mashup-darone) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-mashup-darone) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-mashup-darone)
 
 This is a Dashboard, Analysis and Report (DAR) mashup extension for Qlik Sense. It was made to help you to upgrade you visualization. We work to turn it easy to customize with options like colors, borders, translation, icons, and more. **We hope it's useful!**. [[Whatch demo video]](https://www.youtube.com/watch?v=RQtZpG5WbXw)
 
-[![Dashboard](https://github.com/qlik-mashup/qlik-mashup/blob/main/darone/print.png)](https://www.youtube.com/watch?v=RQtZpG5WbXw)
+[![Dashboard](https://github.com/andressousa/andressousa/blob/main/darone/print.png)](https://www.youtube.com/watch?v=RQtZpG5WbXw)
 
 ## Summary
-- [Features](https://github.com/qlik-mashup/qlik-mashup-darone#features)
-- [Installation](https://github.com/qlik-mashup/qlik-mashup-darone#installation)
-	- [Dependencies](https://github.com/qlik-mashup/qlik-mashup-darone#dependencies)
-- [Configurations](https://github.com/qlik-mashup/qlik-mashup-darone#configurations-premium-version)
-	- [Language](https://github.com/qlik-mashup/qlik-mashup-darone#language)
-	- [Shortcut](https://github.com/qlik-mashup/qlik-mashup-darone#shortcut)
-	- [Icons](https://github.com/qlik-mashup/qlik-mashup-darone#icons)
-	- [Theme](https://github.com/qlik-mashup/qlik-mashup-darone#theme)
-	- [Theme Color Preview](https://github.com/qlik-mashup/qlik-mashup-darone#theme-color-preview)
+- [Features](https://github.com/andressousa/as-qliksense-mashup-darone#features)
+- [Installation](https://github.com/andressousa/as-qliksense-mashup-darone#installation)
+	- [Dependencies](https://github.com/andressousa/as-qliksense-mashup-darone#dependencies)
+- [Configurations](https://github.com/andressousa/as-qliksense-mashup-darone#configurationsn)
+	- [Language](https://github.com/andressousa/as-qliksense-mashup-darone#language)
+	- [Shortcut](https://github.com/andressousa/as-qliksense-mashup-darone#shortcut)
+	- [Icons](https://github.com/andressousa/as-qliksense-mashup-darone#icons)
+	- [Theme](https://github.com/andressousa/as-qliksense-mashup-darone#theme)
+	- [Theme Color Preview](https://github.com/andressousa/as-qliksense-mashup-darone#theme-color-preview)
 
-# Features
-|Item                		|Free Version					|Premium Version (coming soon)
-|---------------------------|-------------------------------|----------------------------|
-|**Support**           		|No            					|E-mail
-|**Source Code**      		|Minified						|Commented
-|**Mashup Template**   		|No            					|Yes
-|**Shortcuts**         		|No           					|Yes
-|**Help Menu**        		|No           					|Yes, Config file
-|**About Menu**        		|No           					|Yes, Config file
-|**Internationalization**   |Yes, Manually 					|Yes, Config file
-|**Icons Config**      		|Yes, Manually  				|Yes, Config file
-|**Sidebar Closed**    		|Yes, Manually 					|Yes, Config file
-|**Sidebar Flat**      		|Yes, Manually 					|Yes, Config file
-|**Visible Selections Bar** |Yes, Manually 					|Yes, Config file
-|**Hide Bookmarks**  		|Yes, Manually					|Yes, Config file
-|**Create Bookmark**  		|No								|Yes, Config file
-|**Hide Actions**      		|Yes, Manually 					|Yes, Config file
-|**Hide Preloader** 		|Yes, Manually 					|Yes, Config file
-|**Export CSV**  			|Yes, Manually					|Yes, Config file
-|**Export Image**  			|No								|Yes, Config file
-|**Export PDF**  			|No								|Yes, Config file
-|**Maximize Chart**  		|Yes, Manually					|Yes, Config file
-|**Fixed Theme**      		|Yes, Manually 					|Yes, Config file
-|**Qlik Sense Theme**  		|Yes, Manually 					|Yes, Config file
-|**Color Themes**      		|Yes, Manually (light, dark) 	|Yes, Config file (light, dark, primary, secondary, success, info, warning, danger, white, indigo, navy, orange, cyan, teal, gray, pink, lightblue, gray-dark, purple, red, yellow, lime, fuchsia, maroon, green, olive, blue)
-
-[Back to Top](https://github.com/qlik-mashup/qlik-mashup-darone#welcome-to-dar-one)
+[Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-dar-one)
 	      
 # Installation
 To install this extension, follow the instructions:
 
  1. Download and extract the lastest version from **build** folder;
- 2. Setup options on **assets/config** folder - Premium Version (see options below);
+ 2. Setup options on **assets/config** folder;
  3. To install, follow oficial [Qlik Help Instructions](https://help.qlik.com/en-US/sense-developer/May2021/Subsystems/Extensions/Content/Sense_Extensions/Howtos/deploy-extensions.htm).
 
-[Back to Top](https://github.com/qlik-mashup/qlik-mashup-darone#welcome-to-dar-one)
+[Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-dar-one)
 
 ## Dependencies
 
@@ -61,9 +36,9 @@ Some extra libraries are used in the project. You may need some knowledge to evo
  - [Bootstrap v4.6.1](https://getbootstrap.com/docs/4.6/getting-started/introduction/);
  - [Font Awesome Free 5.15.4](https://fontawesome.com/v5/search?m=free).
 
-[Back to Top](https://github.com/qlik-mashup/qlik-mashup-darone#welcome-to-dar-one)
+[Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-dar-one)
 
-# Configurations (Premium Version)
+# Configurations
 
 ## Language
 
@@ -109,7 +84,7 @@ You can create new or change all texts through **assets/config/language.js**.
  - **Export data** error message;
 	 - Shown when some data didn't export properly.
 
-[Back to Top](https://github.com/qlik-mashup/qlik-mashup-darone#welcome-to-dar-one)
+[Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-dar-one)
 
 ## Shortcut
 
@@ -154,7 +129,7 @@ You can change all shortcuts through **assets/config/shortcut.js**.
  - **Export Expanded Chart** `Shift+▼`
 	 - Export expanded chart.
 
-[Back to Top](https://github.com/qlik-mashup/qlik-mashup-darone#welcome-to-dar-one)
+[Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-dar-one)
 
 ## Icons
 
@@ -187,7 +162,7 @@ Visit [Font Awesome Free 5.15.4](https://fontawesome.com/v5/search?m=free) icons
  - **Export Image**;
  - **Export PDF**;
 
-[Back to Top](https://github.com/qlik-mashup/qlik-mashup-darone#welcome-to-dar-one)
+[Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-dar-one)
 
 ## Theme
 
@@ -220,11 +195,11 @@ You can change all these options through **assets/config/options.js**.
 - **Theme colors** `primary|secondary|success|info|warning|danger|dark|light|white|indigo|navy|orange|cyan|teal|gray|pink|lightblue|gray-dark|purple|red|yellow|lime|fuchsia|maroon|green|olive|blue`;
 	 - Change left sidebar color.
  
-[Back to Top](https://github.com/qlik-mashup/qlik-mashup-darone#welcome-to-dar-one)
+[Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-dar-one)
 
  ## Theme Color Preview
-![Navbar Colors](https://github.com/qlik-mashup/qlik-mashup/blob/main/darone/navbar-colors.png)
-![Light Colors](https://github.com/qlik-mashup/qlik-mashup/blob/main/darone/sidebar-light-theme.png)
-![Dark Colors](https://github.com/qlik-mashup/qlik-mashup/blob/main/darone/sidebar-dark-theme.png)
+![Navbar Colors](https://github.com/andressousa/andressousa/blob/main/darone/navbar-colors.png)
+![Light Colors](https://github.com/andressousa/andressousa/blob/main/darone/sidebar-light-theme.png)
+![Dark Colors](https://github.com/andressousa/andressousa/blob/main/darone/sidebar-dark-theme.png)
 
-[Back to Top](https://github.com/qlik-mashup/qlik-mashup-darone#welcome-to-dar-one)
+[Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-dar-one)
