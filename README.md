@@ -195,8 +195,8 @@ You can change all these options through **assets/config/options.js**.
 [Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone-darone#welcome-to-dar-one)
 
  ## Theme Color Preview
-![Navbar Colors](https://github.com/andressousa/as-qliksense-mashup-darone-darone/blob/main/navbar-colors.png)
-![Light Colors](https://github.com/andressousa/as-qliksense-mashup-darone-darone/blob/main/sidebar-light-theme.png)
-![Dark Colors](https://github.com/andressousa/as-qliksense-mashup-darone-darone/blob/main/sidebar-dark-theme.png)
+![Navbar Colors](https://github.com/andressousa/as-qliksense-mashup-darone/blob/main/navbar-colors.png)
+![Light Colors](https://github.com/andressousa/as-qliksense-mashup-darone/blob/main/sidebar-light-theme.png)
+![Dark Colors](https://github.com/andressousa/as-qliksense-mashup-darone/blob/main/sidebar-dark-theme.png)
 
 [Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone-darone#welcome-to-dar-one)
