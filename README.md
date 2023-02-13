@@ -1,5 +1,5 @@
 # Welcome to AS DAR One
-![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-mashup-darone) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-mashup-darone) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-mashup-darone)
+![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-mashup-darone) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-mashup-darone) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-mashup-darone) [![Github All Releases](https://img.shields.io/github/downloads/andressousa/as-qliksense-mashup-darone/total.svg)]()
 
 This is a Dashboard, Analysis and Report (DAR) mashup extension for Qlik Sense. It was made to help you to upgrade you visualization. We work to turn it easy to customize with options like colors, borders, translation, icons, and more. **We hope it's useful!**. [[Whatch demo video]](https://www.youtube.com/watch?v=RQtZpG5WbXw)
 
