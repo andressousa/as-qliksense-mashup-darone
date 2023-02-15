@@ -19,9 +19,8 @@ This is a Dashboard, Analysis and Report (DAR) mashup extension for Qlik Sense. 
 # Installation
 To install this extension, follow the instructions:
 
- 1. Download and extract the lastest version from **build** folder;
- 2. Setup options on **assets/config** folder;
- 3. To install, follow oficial [Qlik Help Instructions](https://help.qlik.com/en-US/sense-developer/May2021/Subsystems/Extensions/Content/Sense_Extensions/Howtos/deploy-extensions.htm).
+ 1. Download the [lastest release](https://github.com/andressousa/as-qliksense-mashup-darone/releases/latest);
+ 3. Install extension following [Qlik Help](https://help.qlik.com/en-US/sense-developer/November2022/Subsystems/Extensions/Content/Sense_Extensions/Howtos/deploy-extensions.htm) instructions.
 
 [Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-as-dar-one)
 
