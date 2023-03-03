@@ -30,7 +30,7 @@ Some extra libraries are used in the project. You may need some knowledge to evo
 
  - [jQuery v3.6.0](https://blog.jquery.com/2021/03/02/jquery-3-6-0-released/);
  - [Bootstrap v4.6.1](https://getbootstrap.com/docs/4.6/getting-started/introduction/);
- - [Font Awesome Free 5.15.4](https://fontawesome.com/v5/search?m=free).
+ - [Font Awesome Free 5.15.4](https://fontawesome.com/v5/search?m=free). Include Font Awesome files.
 
 [Back to Top](https://github.com/andressousa/as-qliksense-mashup-darone#welcome-to-as-dar-one)
 
