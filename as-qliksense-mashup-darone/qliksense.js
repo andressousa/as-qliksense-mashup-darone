@@ -222,10 +222,7 @@ require(["js/qlik"], function( qlik ){
 
 	//callbacks -- inserted here --
 	//open apps -- inserted here --
-	var app = qlik.openApp('Examples.qvf', config);
-
 	//get objects -- inserted here --
-	
 	//create cubes and lists -- inserted here --
 
 	if ( app ) { new AppUi( app ); }

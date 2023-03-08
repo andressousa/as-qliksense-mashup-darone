@@ -3,7 +3,7 @@
     "description": "DAR Mashup template based on Bootstrap.",
     "icon": "extension",
     "type": "mashup-template",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "André Sousa",
     "homepage": "https://www.linkedin.com/in/andresantossousa/",
     "keywords": "qlik-sense, visualization, mashup, bootstrap 4, responsive",
